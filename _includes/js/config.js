@@ -28,17 +28,6 @@ var siteConfig = {
     rootPredicate: { type: 'equals', key: 'publishingOrg', value: '689b40c4-ff31-4cd0-83a5-a7a828f1cd92' }, 
     // occurrenceSearchTabs: ['MAP', 'TABLE', 'GALLERY', 'DATASETS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
-  },
-  maps: {
-    locale: 'en',
-    defaultProjection: 'MERCATOR',
-    defaultMapStyle: 'NATURAL',
-    mapStyles: {
-      ARCTIC: ['NATURAL', 'BRIGHT'],
-      PLATE_CAREE: ['NATURAL', 'BRIGHT'],
-      MERCATOR: ['NATURAL', 'BRIGHT'],
-      ANTARCTIC: ['NATURAL', 'BRIGHT']
-    }
   }
 };
 
