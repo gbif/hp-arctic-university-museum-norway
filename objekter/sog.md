@@ -1,6 +1,6 @@
 ---
 lang-ref: occurrence/search
-title: Data
+title: Søg objekter
 description: We publish open data
 layout: occurrence
 ---

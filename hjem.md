@@ -1,21 +1,26 @@
 ---
 lang-ref: home
 layout: home
-title: Template headline
+title: Collections of the Arctic University Museum of Norway
 description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
-background: https://api.gbif.org/v1/image/unsafe/https%3A%2F%2Fstatic.inaturalist.org%2Fphotos%2F58912610%2Foriginal.jpeg%3F1577953995
+background: https://en.uit.no/Content/672642/cache=1583747758000/Slider_3_019-sommerfugler-foto-Mari-Karlstad-.jpg
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  Proper license might be needed. It is via your own site here https://en.uit.no/tmu/fsf
 cta:
-  - text: Start exploring
-    href: /occurrence/search
+  - text: Data
+    href: /objekter/sog
     isPrimary: true
-  - text: About
-    href: /about
+  - text: Om
+    href: /om
 permalink: /
+height: 80vh
+composition:
+  - type: heroImage # the block type
+  - type: features
+    data: collections
 ---
 
-Edit `/home.md` to change the text.
+Edit `/hjem.md` to change the text.
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo

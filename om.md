@@ -1,6 +1,6 @@
 ---
 lang-ref: about
-title: Om
+title: Om dette site
 description: Lorem markdownum spatium limes indefessus neque at orat aestuat
 background: /assets/images/moss.jpg
 imageLicense: |
