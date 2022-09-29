@@ -2,7 +2,7 @@
 lang-ref: home
 layout: home
 title: Collections of the Arctic University Museum of Norway
-description: Lesser saw seas own have can’t kind Also to every own yielding there stars one itself lights seed yielding dominion lesser from lesser were divide be their spirit one behold a they’re grass called open.
+description: Collections are central to the operations of any museum, and represent unique physical archives of objects and organisms.
 background: https://en.uit.no/Content/672642/cache=1583747758000/Slider_3_019-sommerfugler-foto-Mari-Karlstad-.jpg
 imageLicense: |
   Proper license might be needed. It is via your own site here https://en.uit.no/tmu/fsf
