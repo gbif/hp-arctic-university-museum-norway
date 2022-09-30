@@ -95,7 +95,7 @@ features:
   description: Marine groups too small for organising in a separate collection.
   background: /assets/images/misc.png
   href:
-  - title: Various terrestrial taxa
+- title: Various terrestrial taxa
   description: Terrestrial groups too small for organising in a separate collection.
   background: /assets/images/misc.png
   href:
