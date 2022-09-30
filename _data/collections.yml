@@ -21,23 +21,23 @@ features:
   description: Lophophorates and entoprocts mostly from the Norwegian Arctic.  
   background: https://via.placeholder.com/500x300
   href: 
-- title: Coleoptera
+- title: Coleopterans
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: https://via.placeholder.com/500x300
   href: /collections/coleoptera
-- title: Chelicerata
+- title: Chelicerates
   description: Arachnids and pycnogonids from terrestrial and marine environments. 
   background: https://via.placeholder.com/500x300
   href: /collections/chelicerata
+- title: Crustaceans
+  description: The crustacean collection covers a diversity of specimens from the North Sea to Svalbard.
+  background: https://via.placeholder.com/500x300
+  href: /collections/crustacea
 - title: Echinoderms
   description: A unique collection of echinoderms primarily from the Norwegian Arctic.
   background: https://via.placeholder.com/500x300
   href: /collections/echinodermata
-- title: Decapods
-  description: The decapod collection covers a diversity of specimens from the North Sea to Svalbard.
-  background: https://via.placeholder.com/500x300
-  href: /collections/decapoda
-- title: Lepidoptera
+- title: Lepidopterans
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: /assets/images/lepidoptera.png
   href: /collections/lepidoptera
