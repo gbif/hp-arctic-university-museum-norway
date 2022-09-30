@@ -15,11 +15,11 @@ features:
   href: 
 - title: Birds
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: /assets/images/aves.png
+  background: 
   href: /collections/birds
 - title: Bird eggs
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: /assets/images/aves.png
+  background: 
   href:
 - title: Bivalves
   description: The bivalve collection covers over 12 000 specimens, both wet-fixed and in the form of shells. 
@@ -93,11 +93,11 @@ features:
   href: https://www.gbif.org/dataset/d391c193-0fc0-4a96-bdac-6043dd9516d1
 - title: Various marine taxa
   description: Marine groups such as chaetognaths, hemichordates and non-arthropod ecdysozoans.
-  background: /assets/images/misc.png
+  background: 
   href: https://www.gbif.org/dataset/b5a4d944-8a51-4104-a4a7-c3637128bcc7
 - title: Various terrestrial taxa
   description: Terrestrial groups too small for organising in a separate collection.
-  background: /assets/images/misc.png
+  background: 
   href:
 
 
