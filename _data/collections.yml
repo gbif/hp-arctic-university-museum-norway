@@ -33,7 +33,7 @@ features:
   href: /collections/decapoda
 - title: Lepidoptera
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/lepidoptera.png
   href: /collections/lepidoptera
 - title: Coleoptera
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
