@@ -50,9 +50,9 @@ features:
   background: https://via.placeholder.com/500x300
   href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
 - title: Echinoderms
-  description: A unique collection of echinoderms primarily from the Norwegian Arctic.
+  description: A unique collection of nearly 5000 echinoderms primarily from the Norwegian Arctic.
   background: https://via.placeholder.com/500x300
-  href: /collections/echinodermata
+  href: https://www.gbif.org/dataset/77e91a4f-7b9d-458d-b585-298aa1ef41f8
 - title: Fish
   description: Marine and freshwater fish, mostly wet-fixed specimens.
   background: https://via.placeholder.com/500x300
