@@ -45,6 +45,10 @@ features:
   description: A unique collection of echinoderms primarily from the Norwegian Arctic.
   background: https://via.placeholder.com/500x300
   href: /collections/echinodermata
+- title: Fish
+  description: Marine and freshwater fish, mostly wet-fixed specimens.
+  background: https://via.placeholder.com/500x300
+  href: /collections/pisces
 - title: Foraminiferans and other protozoans
   description: Dry and wet specimens of unicellular eukarytoes.
   background: https://via.placeholder.com/500x300
@@ -53,6 +57,10 @@ features:
   description: The gastropod and general mollusk collections cover both wet-fixed specimens and large numbers of shells.
   background: https://via.placeholder.com/500x300
   href: 
+- title: Geology and palaeontology
+  description: The museum houses unique geological and palaeontological material, chiefly from Northern Norway and Svalbard.
+  background: /assets/images/paleo.png
+  href: https://uit.no/research/natscicol/project?pid=717009
 - title: Lepidopterans
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: /assets/images/lepidoptera.png
@@ -67,20 +75,21 @@ features:
   description: The mammal collections consist mostly of taxidermied and wet-fixed specimens.
   background: /assets/images/mammalia.png
   href: /collections/mammalia
-- title: Pisces
-  description: Marine and freshwater fish, mostly wet-fixed specimens.
-  background: https://via.placeholder.com/500x300
-  href: /collections/pisces
 - title: Plants
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: /assets/images/plantae.png
   href: /collections/plants
 - title: Tunicates
-  description: Sea-squirts and their allies.
+  description: Sea-squirts primarily from Norwegian and Arctic waters.
   background: https://via.placeholder.com/500x300
   href: /collections/tunicata
-- title: Geology and palaeontology
-  description: The museum houses unique geological and palaeontological material, chiefly from Northern Norway and Svalbard.
-  background: /assets/images/paleo.png
-  href: https://uit.no/research/natscicol/project?pid=717009
+- title: Various marine taxa
+  description: Marine groups too small for organising in a separate collection.
+  background: https://via.placeholder.com/500x300
+  href:
+  - title: Various terrestrial taxa
+  description: Terrestrial groups too small for organising in a separate collection.
+  background: https://via.placeholder.com/500x300
+  href:
+
 
