@@ -17,7 +17,7 @@ features:
   href: /objekter/sog/?collectionCode=TROM-A
 - title: Mollusks
   description: The mollusk collection covers both wet-fixed specimens and large numbers of shells. 
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/bivalve.png
   href: /collections/mollusca
 - title: Cicada
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
