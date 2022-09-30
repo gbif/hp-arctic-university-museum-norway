@@ -22,9 +22,9 @@ features:
   background: /assets/images/aves.png
   href:
 - title: Bivalves
-  description: The bivalve collection covers both wet-fixed specimens and large numbers of shells. 
+  description: The bivalve collection covers over 12 000 specimens, both wet-fixed in the form of shells. 
   background: /assets/images/bivalve.png
-  href: /collections/mollusca
+  href: https://www.gbif.org/dataset/ac2573cc-6fdb-4f2f-b670-928ab3864c91
 - title: Bryozoans, brachiopods and entoprocts
   description: Nearly 3000 specimens of lophophorates and entoprocts, mostly from the Norwegian Arctic.  
   background: https://via.placeholder.com/500x300
