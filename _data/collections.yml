@@ -12,7 +12,7 @@ features:
 - title: Annelids
   description: Marine annelids are an important component of the museum's zoological collections, numbering over 3500 specimens. 
   background: https://via.placeholder.com/500x300
-  href: https://via.placeholder.com/500x300
+  href: https://www.gbif.org/dataset/a33a6578-bf83-4fa9-b39b-3a3738b72b68
 - title: Birds
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: /assets/images/aves.png
