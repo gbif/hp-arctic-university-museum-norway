@@ -13,6 +13,14 @@ features:
   description: Marine annelids are an important component of the museum's zoological collections. 
   background: https://via.placeholder.com/500x300
   href: 
+- title: Birds
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: /assets/images/aves.png
+  href:
+- title: Bird eggs
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: /assets/images/aves.png
+  href:
 - title: Bivalves
   description: The bivalve collection covers both wet-fixed specimens and large numbers of shells. 
   background: /assets/images/bivalve.png
@@ -85,11 +93,11 @@ features:
   href: /collections/tunicata
 - title: Various marine taxa
   description: Marine groups too small for organising in a separate collection.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/misc.png
   href:
   - title: Various terrestrial taxa
   description: Terrestrial groups too small for organising in a separate collection.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/misc.png
   href:
 
 
