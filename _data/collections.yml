@@ -42,9 +42,9 @@ features:
   background: https://via.placeholder.com/500x300
   href: https://www.gbif.org/occurrence/search?dataset_key=f2a77c80-1e74-4c23-a3c9-c52cede89434&taxon_key=1470
 - title: Crustaceans
-  description: The crustacean collection covers a diversity of specimens from the North Sea to Svalbard.
+  description: The crustacean collection holds nearly 20 000 specimens, primarily from Northern Europe.
   background: https://via.placeholder.com/500x300
-  href: /collections/crustacea
+  href: https://www.gbif.org/dataset/02f57aa9-12ae-4c8c-9d9f-f8b3245cf31a
 - title: Dipterans
   description: Over 25 000 specimens of mainly Norwegian dipterans.
   background: https://via.placeholder.com/500x300
