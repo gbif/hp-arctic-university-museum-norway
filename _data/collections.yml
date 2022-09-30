@@ -88,7 +88,7 @@ features:
   background: /assets/images/plantae.png
   href: /collections/plants
 - title: Tunicates
-  description: Sea-squirts primarily from Norwegian and Arctic waters.
+  description: Tunicates primarily from Norwegian and Arctic waters.
   background: https://via.placeholder.com/500x300
   href: /collections/tunicata
 - title: Various marine taxa
