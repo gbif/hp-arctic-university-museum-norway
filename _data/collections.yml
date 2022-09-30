@@ -10,7 +10,7 @@ features:
     [Phycodrys rubens (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
 - title: Annelids
-  description: Marine annelids are an important component of the museum's zoological collections. 
+  description: Marine annelids are an important component of the museum's zoological collections, numbering over 3500 specimens. 
   background: https://via.placeholder.com/500x300
   href: https://via.placeholder.com/500x300
 - title: Birds
@@ -34,7 +34,7 @@ features:
   background: https://via.placeholder.com/500x300
   href: https://www.gbif.org/dataset/060eecc9-75b0-4952-bb48-e400d3ad7771
 - title: Cnidarians and ctenophores
-  description: The collection houses over 1 500 mostly wet-fixed specimens of marine cnidarian and ctenophore taxa.
+  description: The collection houses over 1500 mostly wet-fixed specimens of marine cnidarian and ctenophore taxa.
   background: https://via.placeholder.com/500x300
   href: https://www.gbif.org/dataset/d69404e5-0942-4327-b4e5-180232223ae1
 - title: Coleopterans
