@@ -84,9 +84,9 @@ features:
   background: /assets/images/mammalia.png
   href: /collections/mammalia
 - title: Plants
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  description: Over 175 000 plant specimens.
   background: /assets/images/plantae.png
-  href: /collections/plants
+  href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Tunicates
   description: Over 1000 tunicate specimens primarily from Norwegian and Arctic waters.
   background: https://via.placeholder.com/500x300
