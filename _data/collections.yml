@@ -46,9 +46,9 @@ features:
   background: https://via.placeholder.com/500x300
   href: /collections/crustacea
 - title: Dipterans
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  description: Over 25 000 specimens of mainly Norwegian dipterans.
   background: https://via.placeholder.com/500x300
-  href: /collections/crustacea
+  href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
 - title: Echinoderms
   description: A unique collection of echinoderms primarily from the Norwegian Arctic.
   background: https://via.placeholder.com/500x300
