@@ -75,6 +75,10 @@ features:
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: /assets/images/plantae.png
   href: /collections/plants
+- title: Tunicates
+  description: Sea-squirts and their allies.
+  background: https://via.placeholder.com/500x300
+  href: /collections/tunicata
 - title: Geology and palaeontology
   description: The museum houses unique geological and palaeontological material, chiefly from Northern Norway and Svalbard.
   background: /assets/images/paleo.png
