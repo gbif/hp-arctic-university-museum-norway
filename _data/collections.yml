@@ -25,10 +25,10 @@ features:
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: https://via.placeholder.com/500x300
   href: /collections/coleoptera
-- title: Cicadas
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+- title: Chelicerata
+  description: Arachnids and pycnogonids primarily from northern Norway.
   background: https://via.placeholder.com/500x300
-  href: /collections/cicadidae
+  href: /collections/chelicerata
 - title: Echinoderms
   description: A unique collection of echinoderms primarily from the Norwegian Arctic.
   background: https://via.placeholder.com/500x300
