@@ -59,7 +59,7 @@ features:
   imageLicense: |
     [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-L
-- title: Mammalia
+- title: Mammals
   description: The mammal collections consist mostly of taxidermied and wet-fixed specimens.
   background: /assets/images/mammalia.png
   href: /collections/mammalia
