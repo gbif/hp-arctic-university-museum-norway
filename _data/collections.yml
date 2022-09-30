@@ -15,8 +15,8 @@ features:
   imageLicense: |
     [Phycodrys rubens (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
-- title: Mollusks
-  description: The mollusk collection covers both wet-fixed specimens and large numbers of shells. 
+- title: Bivalves
+  description: The bivalve collection covers both wet-fixed specimens and large numbers of shells. 
   background: /assets/images/bivalve.png
   href: /collections/mollusca
 - title: Cicada
