@@ -53,7 +53,7 @@ features:
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: /assets/images/lepidoptera.png
   href: /collections/lepidoptera
-- title:  Lichen
+- title:  Lichens
   description: Lichens are very beautiful organisms.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
   imageLicense: |
@@ -63,6 +63,10 @@ features:
   description: The mammal collections consist mostly of taxidermied and wet-fixed specimens.
   background: /assets/images/mammalia.png
   href: /collections/mammalia
+- title: Fish
+  description: Marine and freshwater fish, mostly wet-fixed specimens.
+  background: https://via.placeholder.com/500x300
+  href: /collections/pisces
 - title: Plants
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: /assets/images/plantae.png
