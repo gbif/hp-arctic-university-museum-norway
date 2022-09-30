@@ -21,6 +21,10 @@ features:
   description: Lophophorates and entoprocts mostly from the Norwegian Arctic.  
   background: https://via.placeholder.com/500x300
   href: 
+- title: Coleoptera
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  background: https://via.placeholder.com/500x300
+  href: /collections/coleoptera
 - title: Cicadas
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: https://via.placeholder.com/500x300
@@ -43,10 +47,6 @@ features:
   imageLicense: |
     [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-L
-- title: Coleoptera
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
-  background: https://via.placeholder.com/500x300
-  href: /collections/coleoptera
 - title: Plants
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: /assets/images/plantae.png
