@@ -43,7 +43,7 @@ features:
   description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
   background: /assets/images/plantae.png
   href: /collections/plants
-- title: Geology and palaentology
+- title: Geology and palaeontology
   description: The museum houses important geological and palaeontological material, chiefly from Northern Norway and Svalbard.
   background: /assets/images/paleo.png
   href: https://uit.no/research/natscicol/project?pid=717009
