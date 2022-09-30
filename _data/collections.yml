@@ -70,9 +70,9 @@ features:
   background: /assets/images/paleo.png
   href: https://uit.no/research/natscicol/project?pid=717009
 - title: Lepidopterans
-  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.
+  description: About 23 000 specimens of butterflies from Norway and tropical regions.
   background: /assets/images/lepidoptera.png
-  href: /collections/lepidoptera
+  href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
 - title:  Lichens
   description: Lichens are very beautiful organisms.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
