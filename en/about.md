@@ -8,11 +8,9 @@ imageLicense: |
 height: 70vh
 ---
 
-## Procris quippe mentior urbes ubi
+## Collections are central to the operations of any museum, and represent unique physical archives of objects and organisms.
 
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
+The zoological collections of the Arctic University Museum of Norway comprise over 160.000 collection numbers, each of which can contain several specimens. The collection is divided into a wet and a dry magazine and houses 27 unique type specimens (holotypes) and 56 paratypes.
 
 Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
 Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
