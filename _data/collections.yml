@@ -92,7 +92,7 @@ features:
   background: https://via.placeholder.com/500x300
   href: https://www.gbif.org/dataset/d391c193-0fc0-4a96-bdac-6043dd9516d1
 - title: Various marine taxa
-  description: Marine groups such as chaetognaths, hemichordates and non-arthropod ecdysozoans.
+  description: Various marine groups including acanthocephalans, chaetognaths, echiurans, hemichordates, myzozoans, nematodes, nematomorphs, flatworms, sponges, priapulids, and sipunculids.
   background: /assets/images/misc.png
   href: https://www.gbif.org/dataset/b5a4d944-8a51-4104-a4a7-c3637128bcc7
 - title: Various terrestrial taxa
