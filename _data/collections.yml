@@ -84,7 +84,7 @@ features:
   background: /assets/images/mammalia.png
   href: /collections/mammalia
 - title: Plants
-  description: Over 175 000 plant specimens.
+  description: Over 175 000 plant specimens, primarily from the northern hemisphere.
   background: /assets/images/plantae.png
   href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Tunicates
