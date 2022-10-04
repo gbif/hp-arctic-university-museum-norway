@@ -96,7 +96,7 @@ features:
   background: /assets/images/misc.png
   href: https://www.gbif.org/dataset/b5a4d944-8a51-4104-a4a7-c3637128bcc7
 - title: Various terrestrial taxa
-  description: Terrestrial groups too small for organising in a separate collection.
+  description: Terrestrial groups lacking dedicated collections.
   background: /assets/images/misc.png
   href:
 
