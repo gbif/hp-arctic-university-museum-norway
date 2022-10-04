@@ -17,9 +17,9 @@ columns:
   - name: Kontakt
     description: | # Can be Markdown
       Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+      * Lars Thørings veg 10
+      * 9006 Tromsø
+      * Norway
     connectIcons: true
 
   # EXAMPLE
