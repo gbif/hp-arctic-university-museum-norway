@@ -8,10 +8,15 @@ imageLicense: |
   *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
 cta:
   - text: Explore
-    href: /en/occurernces/search
+    href: /objekter/sog
     isPrimary: true
-  - text: About
-    href: /en/about
-permalink: /en
+  - text: Om
+    href: /om
+permalink: /
+height: 80vh
+composition:
+  - type: heroImage # the block type
+  - type: features
+    data: collections
 
 ---
