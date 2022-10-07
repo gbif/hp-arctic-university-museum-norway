@@ -17,6 +17,6 @@ height: 80vh
 composition:
   - type: heroImage # the block type
   - type: features
-    data: collections
+    data: en.collections
 
 ---
