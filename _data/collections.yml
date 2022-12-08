@@ -33,7 +33,7 @@ features:
   description: Omtrent 500 edderkoppdyr og 600 havedderkopp fra Norge og Svalbard. 
   background: /assets/images/spider.jpg
   href: https://www.gbif.org/dataset/060eecc9-75b0-4952-bb48-e400d3ad7771
-- title: Cnidarians and ctenophores
+- title: Nesledyr og kammaneter
   description: Over 1500 marine nesledyr og kammaneter.
   background: /assets/images/cnidarian.jpg
   href: https://www.gbif.org/dataset/d69404e5-0942-4327-b4e5-180232223ae1
