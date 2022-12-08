@@ -39,7 +39,7 @@ features:
   href: https://www.gbif.org/dataset/d69404e5-0942-4327-b4e5-180232223ae1
 - title: Coleopterans
   description: Beetles, the most speciose insect group of them all, are represented by about 22 000 specimens in the museum's collection.
-  background: /assets/images/misc.png
+  background: /assets/images/coleoptera.jpg
   href: https://www.gbif.org/occurrence/search?dataset_key=f2a77c80-1e74-4c23-a3c9-c52cede89434&taxon_key=1470
 - title: Crustaceans
   description: The crustacean collection holds nearly 20 000 specimens, primarily from Northern Europe.
@@ -47,7 +47,7 @@ features:
   href: https://www.gbif.org/dataset/02f57aa9-12ae-4c8c-9d9f-f8b3245cf31a
 - title: Dipterans
   description: Over 25 000 specimens of mainly Norwegian dipterans.
-  background: /assets/images/misc.png
+  background: /assets/images/diptera.jpg
   href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
 - title: Echinoderms
   description: A unique collection of nearly 5000 echinoderms primarily from the Norwegian Arctic.
