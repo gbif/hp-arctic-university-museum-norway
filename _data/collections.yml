@@ -19,7 +19,7 @@ features:
   href: /collections/birds
 - title: Fugleegg
   description: Nære 2000 fugleegg.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/egg.jpg
   href:
 - title: Muslinger
   description: Samlingen av muslinger holder over 12 000 eksemplar, både skjell og fixerte. 
