@@ -27,43 +27,43 @@ features:
   href: https://www.gbif.org/dataset/ac2573cc-6fdb-4f2f-b670-928ab3864c91
 - title: Mosdyr, armfotinger og entoprokter
   description: Nære 3000 exemplar, primært fra arctiske strøk.  
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/brachiopod.jpg
   href: https://www.gbif.org/dataset/e92bb2ed-1efe-4d2a-a17d-52182c562db8
 - title: Klosaksdyr
   description: Omtrent 500 edderkoppdyr og 600 havedderkopp fra Norge og Svalbard. 
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/spider.jpg
   href: https://www.gbif.org/dataset/060eecc9-75b0-4952-bb48-e400d3ad7771
 - title: Cnidarians and ctenophores
   description: Over 1500 marine nesledyr og kammaneter.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/cnidarian.jpg
   href: https://www.gbif.org/dataset/d69404e5-0942-4327-b4e5-180232223ae1
 - title: Biller
   description: Biller er representert i samlingerne av 22 000 eksemplar.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/misc.png
   href: https://www.gbif.org/occurrence/search?dataset_key=f2a77c80-1e74-4c23-a3c9-c52cede89434&taxon_key=1470
 - title: Krepsdyr
   description: Krepsdyrsamlingen inneholder nære 20 000 eksemplar.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/isopod.jpg
   href: https://www.gbif.org/dataset/02f57aa9-12ae-4c8c-9d9f-f8b3245cf31a
 - title: Tovinger
   description: Over 25 000 eksemplar, mesteparten norske.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/misc.png
   href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
 - title: Pigghuder
   description: Omtrent 5000 pigghuder fremst fra Norge og Arktis.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/ophiuroid.jpg
   href: https://www.gbif.org/dataset/77e91a4f-7b9d-458d-b585-298aa1ef41f8
 - title: Fisk
   description: Fisk fra sjø og ferskvann.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/fish.jpg
   href: /collections/pisces
 - title: Foraminifer og andre protister
   description: Over 2000 eksemplar av encellede eukaryote organismer.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/forams.jpg
   href: https://www.gbif.org/dataset/8dbe67d7-26df-4810-a989-d246f0e93edb
 - title: Snegler og andre bløtdyr
-  description: Mange skall og fixerte eksemplar av bløtdyr.
-  background: https://via.placeholder.com/500x300
+  description: Skall og fixerte eksemplar av bløtdyr.
+  background: /assets/images/gastropod.jpg
   href: https://www.gbif.org/dataset/7d3fbc21-38f9-43b5-98d4-1ed7c65f7103
 - title: Geologi og paleontologi
   description: Museets samlinger inkluderer unikt geologiskt og paleontologiskt material, fremst fra Nord-Norge og Svalbard.
@@ -74,7 +74,7 @@ features:
   background: /assets/images/lepidoptera.png
   href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
 - title:  Laver
-  description: Samlingerna av lav er en viktig del av museets herbarium.
+  description: Samlingerne av lav er en viktig del av museets herbarium.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
   imageLicense: |
     [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) innsamlet i Norge (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
@@ -89,7 +89,7 @@ features:
   href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Kappedyr
   description: Omtrent 1000 kappedyr primært fra norske og arktiske farvann.
-  background: https://via.placeholder.com/500x300
+  background: /assets/images/tunicate.jpg
   href: https://www.gbif.org/dataset/d391c193-0fc0-4a96-bdac-6043dd9516d1
 - title: Diverse marine grupper
   description: Diverse marine dyrgrupper uten egne samlinger.
