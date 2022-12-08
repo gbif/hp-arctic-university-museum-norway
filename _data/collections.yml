@@ -39,7 +39,7 @@ features:
   href: https://www.gbif.org/dataset/d69404e5-0942-4327-b4e5-180232223ae1
 - title: Biller
   description: Biller er representert i samlingerne av 22 000 eksemplar.
-  background: /assets/images/misc.png
+  background: /assets/images/coleoptera.jpg
   href: https://www.gbif.org/occurrence/search?dataset_key=f2a77c80-1e74-4c23-a3c9-c52cede89434&taxon_key=1470
 - title: Krepsdyr
   description: Krepsdyrsamlingen inneholder nære 20 000 eksemplar.
@@ -47,7 +47,7 @@ features:
   href: https://www.gbif.org/dataset/02f57aa9-12ae-4c8c-9d9f-f8b3245cf31a
 - title: Tovinger
   description: Over 25 000 eksemplar, mesteparten norske.
-  background: /assets/images/misc.png
+  background: /assets/images/diptera.jpg
   href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
 - title: Pigghuder
   description: Omtrent 5000 pigghuder fremst fra Norge og Arktis.
