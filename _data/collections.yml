@@ -22,7 +22,7 @@ features:
   background: /assets/images/egg.jpg
   href:
 - title: Muslinger
-  description: Samlingen av muslinger holder over 12 000 eksemplar, både skjell og fixerte. 
+  description: Samlingen av muslinger holder over 12 000 eksemplar.
   background: /assets/images/bivalve.png
   href: https://www.gbif.org/dataset/ac2573cc-6fdb-4f2f-b670-928ab3864c91
 - title: Mosdyr, armfotinger og entoprokter
