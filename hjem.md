@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Collections of the Arctic University Museum of Norway
 description: Collections are central to the operations of any museum, and represent unique physical archives of objects and organisms.
-background: https://en.uit.no/Content/672642/cache=1583747758000/Slider_3_019-sommerfugler-foto-Mari-Karlstad-.jpg
+background: /assets/images/thumbnail_05-TMU-1997-165 foto Trond Roar Nilsen-33006.jpg
 imageLicense: |
   Proper license might be needed. It is via your own site here https://en.uit.no/tmu/fsf
 cta:
