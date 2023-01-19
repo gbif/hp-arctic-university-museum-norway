@@ -1,8 +1,8 @@
 ---
 lang-ref: home
 layout: home
-title: Collections of the Arctic University Museum of Norway
-description: Collections are central to the operations of any museum, and represent unique physical archives of objects and organisms.
+title: Norges Arktiske Universitetsmuseums samlinger
+description: Samlinger er sentrale før et museums virksomhet, og utgjør fysiske arkiver av objekter og organismer.
 background: /assets/images/thumbnail_05-TMU-1997-165 foto Trond Roar Nilsen-33006.jpg
 imageLicense: |
   Proper license might be needed. It is via your own site here https://en.uit.no/tmu/fsf
