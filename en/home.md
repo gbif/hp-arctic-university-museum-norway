@@ -3,9 +3,9 @@ lang-ref: home
 layout: home
 title: Collections of the Arctic University Museum of Norway
 description: Collections are central to the operations of any museum, and represent unique physical archives of objects and organisms.
-background: https://inaturalist-open-data.s3.amazonaws.com/photos/58912610/original.jpeg
+background: /assets/images/thumbnail_TMU-vinter-red-NY-web-hovedbilde-foto Adnan Icagic.jpg
 imageLicense: |
-  *Xylaria hypoxylon* (L.) Grev. Photo by Alexis via [iNaturalist](https://www.gbif.org/occurrence/2542961803)
+  Tromsø Museum, photo by Adnan Icagic.
 cta:
   - text: Explore
     href: /en/occurrences/search
