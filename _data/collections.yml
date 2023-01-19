@@ -83,8 +83,8 @@ features:
   description: Pattedyrsamlingen består fremst av utstoppede og fixerte eksemplar.
   background: /assets/images/mammalia.png
   href: /collections/mammalia
-- title: Grønne planter
-  description: Over 175 000 planteeksemplar.
+- title: Karplanter
+  description: Over 175 000 eksemplar av karplanter.
   background: /assets/images/plantae.png
   href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Kappedyr
