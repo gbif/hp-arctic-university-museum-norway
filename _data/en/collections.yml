@@ -74,7 +74,7 @@ features:
   background: /assets/images/lepidoptera.png
   href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
 - title:  Lichens
-  description: Lichens are very beautiful organisms.
+  description: A diverse collection of lichens. 
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
   imageLicense: |
     [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
@@ -83,8 +83,8 @@ features:
   description: The mammal collections consist mostly of taxidermied and wet-fixed specimens.
   background: /assets/images/mammalia.png
   href: /collections/mammalia
-- title: Plants
-  description: Over 175 000 plant specimens, primarily from the northern hemisphere.
+- title: Vascular plants
+  description: Over 175 000 vascular plant specimens, primarily from the northern hemisphere.
   background: /assets/images/plantae.png
   href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Tunicates
