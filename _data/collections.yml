@@ -9,6 +9,17 @@ features:
   imageLicense: |
     [Phycodrys rubens (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
+  - title: Karplanter
+  description: Over 175 000 eksemplar av karplanter.
+  background: /assets/images/plantae.png
+  href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
+  - title: Moser
+  description: Samlingen av moser omfatter omtrent 23 000 eksemplar.
+  background: /assets/images/plantae.png
+  href: https://www.gbif.org/dataset/0f061eff-6854-4bb3-abe2-acb184ea3ab7
+  - title: Sopp
+  description: Over 39 300 eksemplar av sopp.
+  href: https://www.gbif.org/dataset/374e0d4c-cf9f-4e1a-97a4-14123ee1bb7e
 - title: Leddormer
   description: Marine leddormer er representert av omtrent 3500 eksemplar i museets samlinger. 
   background: /assets/images/annelida.png
@@ -83,10 +94,6 @@ features:
   description: Pattedyrsamlingen består fremst av utstoppede og fixerte eksemplar.
   background: /assets/images/mammalia.png
   href: /collections/mammalia
-- title: Karplanter
-  description: Over 175 000 eksemplar av karplanter.
-  background: /assets/images/plantae.png
-  href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Kappedyr
   description: Omtrent 1000 kappedyr primært fra norske og arktiske farvann.
   background: /assets/images/tunicate.jpg
