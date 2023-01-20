@@ -5,7 +5,7 @@ title: Norges Arktiske Universitetsmuseums samlinger
 description: Samlinger er sentrale før et museums virksomhet, og utgjør fysiske arkiver av objekter og organismer.
 background: /assets/images/thumbnail_05-TMU-1997-165 foto Trond Roar Nilsen-33006.jpg
 imageLicense: |
-  Proper license might be needed. It is via your own site here https://en.uit.no/tmu/fsf
+   Tromsø Museum, fotografert av Trond Roar Nilsen.
 cta:
   - text: Data
     href: /objekter/sog
