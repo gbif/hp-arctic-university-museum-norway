@@ -25,7 +25,7 @@ features:
   background: /assets/images/annelida.png
   href: https://www.gbif.org/dataset/a33a6578-bf83-4fa9-b39b-3a3738b72b68
 - title: Fugler
-  description: Over 6500 utstoppede og fixerede eksemplar.
+  description: Over 6500 utstoppede og fikserede eksemplar.
   background: /assets/images/aves.png
   href: /collections/birds
 - title: Fugleegg
@@ -73,7 +73,7 @@ features:
   background: /assets/images/forams2.jpg
   href: https://www.gbif.org/dataset/8dbe67d7-26df-4810-a989-d246f0e93edb
 - title: Snegler og andre bløtdyr
-  description: Skall og fixerte eksemplar av bløtdyr.
+  description: Skall og fikserte eksemplar av bløtdyr.
   background: /assets/images/gastropod.jpg
   href: https://www.gbif.org/dataset/7d3fbc21-38f9-43b5-98d4-1ed7c65f7103
 - title: Geologi og paleontologi
@@ -91,7 +91,7 @@ features:
     [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) innsamlet i Norge (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-L
 - title: Pattedyr
-  description: Pattedyrsamlingen består fremst av utstoppede og fixerte eksemplar.
+  description: Pattedyrsamlingen består fremst av utstoppede og fikserte eksemplar.
   background: /assets/images/mammalia.png
   href: /collections/mammalia
 - title: Kappedyr
