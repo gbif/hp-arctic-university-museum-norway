@@ -25,7 +25,7 @@ features:
   background: /assets/images/annelida.png
   href: https://www.gbif.org/dataset/a33a6578-bf83-4fa9-b39b-3a3738b72b68
 - title: Fugler
-  description: Over 6500 utstoppede og fixerede exemplar.
+  description: Over 6500 utstoppede og fixerede eksemplar.
   background: /assets/images/aves.png
   href: /collections/birds
 - title: Fugleegg
