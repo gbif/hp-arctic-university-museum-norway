@@ -9,6 +9,18 @@ features:
   imageLicense: |
     [Phycodrys rubens (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
+  - title: Bryophytes
+  description: Around 23 600 bryophyte specimens. 
+  background: /assets/images/plantae.png
+  href: https://www.gbif.org/dataset/0f061eff-6854-4bb3-abe2-acb184ea3ab7
+- title: Fungi
+  description: Nearly 40 000 specimens of fungi. 
+  background: /assets/images/plantae.png
+  href: https://www.gbif.org/dataset/374e0d4c-cf9f-4e1a-97a4-14123ee1bb7e
+  - title: Vascular plants
+  description: Over 175 000 vascular plant specimens, primarily from the northern hemisphere.
+  background: /assets/images/plantae.png
+  href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Annelids
   description: Marine annelids are an important component of the museum's zoological collections, numbering over 3500 specimens. 
   background: /assets/images/annelida.png
@@ -83,19 +95,15 @@ features:
   description: The mammal collections consist mostly of taxidermied and wet-fixed specimens.
   background: /assets/images/mammalia.png
   href: /collections/mammalia
-- title: Vascular plants
-  description: Over 175 000 vascular plant specimens, primarily from the northern hemisphere.
-  background: /assets/images/plantae.png
-  href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Tunicates
   description: Over 1000 tunicate specimens primarily from Norwegian and Arctic waters.
   background: /assets/images/tunicate.jpg
   href: https://www.gbif.org/dataset/d391c193-0fc0-4a96-bdac-6043dd9516d1
-- title: Various marine taxa
+- title: Various marine animal taxa
   description: Various marine groups including acanthocephalans, chaetognaths, echiurans, hemichordates, myzozoans, nematodes, nematomorphs, flatworms, sponges, priapulids, and sipunculids.
   background: /assets/images/misc.png
   href: https://www.gbif.org/dataset/b5a4d944-8a51-4104-a4a7-c3637128bcc7
-- title: Various terrestrial taxa
+- title: Various terrestrial animal taxa
   description: Terrestrial groups lacking dedicated collections.
   background: /assets/images/misc.png
   href:
