@@ -4,7 +4,7 @@ description: |
   The Arctic University Museum of Norway has zoological, botanical and geological collections primarily from Northern Norway and Arctic regions, and supports collection-based research.
 features: 
 - title: Algae
-  description: The algae herbarium contains almost 3000 specimens, primarily from Norge and Svalbard.
+  description: The algae herbarium contains almost 3000 specimens, primarily from Norway and Svalbard.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15409023&type=jpeg
   imageLicense: |
     [Phycodrys rubens (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
@@ -26,7 +26,7 @@ features:
   background: /assets/images/annelida.png
   href: https://www.gbif.org/dataset/a33a6578-bf83-4fa9-b39b-3a3738b72b68
 - title: Birds
-  description: Over 6500 specimens of taxidermied and wet-fixed birds.
+  description: Over 6500 specimens of taxidermied and fixed birds.
   background: /assets/images/aves.png
   href: /collections/birds
 - title: Bird eggs
@@ -34,7 +34,7 @@ features:
   background: /assets/images/egg2.jpg
   href:
 - title: Bivalves
-  description: The bivalve collection covers over 12 000 specimens, both wet-fixed and in the form of shells. 
+  description: The bivalve collection covers over 12 000 specimens, both fixed and in the form of shells. 
   background: /assets/images/bivalve.png
   href: https://www.gbif.org/dataset/ac2573cc-6fdb-4f2f-b670-928ab3864c91
 - title: Bryozoans, brachiopods and entoprocts
@@ -46,7 +46,7 @@ features:
   background: /assets/images/spider.jpg
   href: https://www.gbif.org/dataset/060eecc9-75b0-4952-bb48-e400d3ad7771
 - title: Cnidarians and ctenophores
-  description: The collection houses over 1500 mostly wet-fixed specimens of marine cnidarian and ctenophore taxa.
+  description: The collection houses over 1500 mostly fixed specimens of marine cnidarian and ctenophore taxa.
   background: /assets/images/cnidarian.jpg
   href: https://www.gbif.org/dataset/d69404e5-0942-4327-b4e5-180232223ae1
 - title: Coleopterans
@@ -66,15 +66,15 @@ features:
   background: /assets/images/cnidarian.jpg
   href: https://www.gbif.org/dataset/77e91a4f-7b9d-458d-b585-298aa1ef41f8
 - title: Fish
-  description: Marine and freshwater fish, mostly wet-fixed specimens.
+  description: Marine and freshwater fish, mostly fixed specimens.
   background: /assets/images/fish.jpg
   href: /collections/pisces
 - title: Foraminiferans and other protozoans
-  description: Over 2000 dry and wet specimens of unicellular eukaryotes.
+  description: Over 2000 specimens of unicellular eukaryotes.
   background: /assets/images/forams2.jpg
   href: https://www.gbif.org/dataset/8dbe67d7-26df-4810-a989-d246f0e93edb
 - title: Gastropods and other mollusks
-  description: The gastropod and general mollusk collections cover both wet-fixed specimens and large numbers of shells.
+  description: The gastropod and general mollusk collections cover both fixed specimens and large numbers of shells.
   background: /assets/images/gastropod.jpg
   href: https://www.gbif.org/dataset/7d3fbc21-38f9-43b5-98d4-1ed7c65f7103
 - title: Geology and palaeontology
@@ -92,7 +92,7 @@ features:
     [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-L
 - title: Mammals
-  description: The mammal collections consist mostly of taxidermied and wet-fixed specimens.
+  description: The mammal collections consist mostly of taxidermied and fixed specimens.
   background: /assets/images/mammalia.png
   href: /collections/mammalia
 - title: Tunicates
