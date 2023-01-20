@@ -17,6 +17,12 @@ features:
   description: Nearly 40 000 specimens of fungi. 
   background: /assets/images/plantae.png
   href: https://www.gbif.org/dataset/374e0d4c-cf9f-4e1a-97a4-14123ee1bb7e
+  - title:  Lichens
+  description: A diverse collection of nearly 23 000 lichens. 
+  background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
+  imageLicense: |
+    [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
+  href: /objekter/sog/?collectionCode=TROM-L
   - title: Vascular plants
   description: Over 175 000 vascular plant specimens, primarily from the northern hemisphere.
   background: /assets/images/plantae.png
@@ -85,12 +91,6 @@ features:
   description: About 23 000 specimens of butterflies from Norway and tropical regions.
   background: /assets/images/lepidoptera.png
   href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
-- title:  Lichens
-  description: A diverse collection of lichens. 
-  background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
-  imageLicense: |
-    [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
-  href: /objekter/sog/?collectionCode=TROM-L
 - title: Mammals
   description: The mammal collections consist mostly of taxidermied and fixed specimens.
   background: /assets/images/mammalia.png
