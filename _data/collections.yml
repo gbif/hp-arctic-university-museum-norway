@@ -9,21 +9,21 @@ features:
   imageLicense: |
     [Phycodrys rubens (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
-  - title: Karplanter
+- title: Karplanter
   description: Over 175 000 eksemplar av karplanter.
   background: /assets/images/plantae.png
   href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
-  - title:  Laver
+- title:  Laver
   description: Samlingerne av lav er en viktig del av museets herbarium.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
   imageLicense: |
     [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) innsamlet i Norge (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-L
-  - title: Moser
+- title: Moser
   description: Samlingen av moser omfatter omtrent 23 000 eksemplar.
   background: /assets/images/plantae.png
   href: https://www.gbif.org/dataset/0f061eff-6854-4bb3-abe2-acb184ea3ab7
-  - title: Sopp
+- title: Sopp
   description: Over 39 300 eksemplar av sopp.
   background: /assets/images/plantae.png
   href: https://www.gbif.org/dataset/374e0d4c-cf9f-4e1a-97a4-14123ee1bb7e
