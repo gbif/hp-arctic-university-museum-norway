@@ -15,7 +15,7 @@ features:
   href: https://www.gbif.org/dataset/0f061eff-6854-4bb3-abe2-acb184ea3ab7
 - title: Fungi
   description: Nearly 40 000 specimens of fungi. 
-  background: /assets/images/moss.jpg
+  background: /assets/images/fungi.jpg
   href: https://www.gbif.org/dataset/374e0d4c-cf9f-4e1a-97a4-14123ee1bb7e
 - title:  Lichens
   description: A diverse collection of nearly 23 000 lichens. 
