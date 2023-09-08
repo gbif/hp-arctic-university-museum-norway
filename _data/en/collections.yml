@@ -12,11 +12,13 @@ features:
 - title: Bryophytes
   description: Around 23 600 bryophyte specimens. 
   background: /assets/images/moss.jpg
-  href: https://www.gbif.org/dataset/0f061eff-6854-4bb3-abe2-acb184ea3ab7
+  href:  https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-B
 - title: Fungi
   description: Nearly 40 000 specimens of fungi. 
   background: /assets/images/fungi.jpg
-  href: https://www.gbif.org/dataset/374e0d4c-cf9f-4e1a-97a4-14123ee1bb7e
+  href:  https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-F
+   imageLicense: |
+    [*Helvella corium* (Massee)] photographed and collected in Ramfjordbotn by Ole Christian Hagestad (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
 - title:  Lichens
   description: A diverse collection of nearly 23 000 lichens. 
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
@@ -26,84 +28,86 @@ features:
 - title: Vascular plants
   description: Over 175 000 vascular plant specimens, primarily from the northern hemisphere.
   background: /assets/images/plantae.png
-  href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?datasetKey=d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Annelids
   description: Marine annelids are an important component of the museum's zoological collections, numbering over 3500 specimens. 
   background: /assets/images/annelida.png
-  href: https://www.gbif.org/dataset/a33a6578-bf83-4fa9-b39b-3a3738b72b68
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZA
 - title: Birds
   description: Over 6500 specimens of taxidermied and fixed birds.
   background: /assets/images/aves.png
-  href: /collections/birds
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
 - title: Bird eggs
   description: Nearly 2000 bird eggs.
   background: /assets/images/egg2.jpg
-  href:
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
 - title: Bivalves
   description: The bivalve collection covers over 12 000 specimens, both fixed and in the form of shells. 
   background: /assets/images/bivalve.png
-  href: https://www.gbif.org/dataset/ac2573cc-6fdb-4f2f-b670-928ab3864c91
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZB
 - title: Bryozoans, brachiopods and entoprocts
   description: Nearly 3000 specimens of lophophorates and entoprocts, mostly from the Norwegian Arctic.  
   background: /assets/images/brachiopod.jpg
-  href: https://www.gbif.org/dataset/e92bb2ed-1efe-4d2a-a17d-52182c562db8
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZBr
 - title: Chelicerates
   description: Half a thousand arachnids and nearly 600 pycnogonids from Norway and Svalbard. 
   background: /assets/images/spider.jpg
-  href: https://www.gbif.org/dataset/060eecc9-75b0-4952-bb48-e400d3ad7771
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZCh
 - title: Cnidarians and ctenophores
   description: The collection houses over 1500 mostly fixed specimens of marine cnidarian and ctenophore taxa.
   background: /assets/images/cnidarian.jpg
-  href: https://www.gbif.org/dataset/d69404e5-0942-4327-b4e5-180232223ae1
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZR
 - title: Coleopterans
   description: Beetles, the most speciose insect group of them all, are represented by about 22 000 specimens in the museum's collection.
   background: /assets/images/coleoptera.jpg
-  href: https://www.gbif.org/occurrence/search?dataset_key=f2a77c80-1e74-4c23-a3c9-c52cede89434&taxon_key=1470
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZC
 - title: Crustaceans
   description: The crustacean collection holds nearly 20 000 specimens, primarily from Northern Europe.
   background: /assets/images/isopod.jpg
-  href: https://www.gbif.org/dataset/02f57aa9-12ae-4c8c-9d9f-f8b3245cf31a
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZC
 - title: Dipterans
   description: Over 25 000 specimens of mainly Norwegian dipterans.
   background: /assets/images/diptera.jpg
-  href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZD
 - title: Echinoderms
   description: A unique collection of nearly 5000 echinoderms primarily from the Norwegian Arctic.
   background: /assets/images/cnidarian.jpg
-  href: https://www.gbif.org/dataset/77e91a4f-7b9d-458d-b585-298aa1ef41f8
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZE
 - title: Fish
   description: Marine and freshwater fish, mostly fixed specimens.
   background: /assets/images/fish.jpg
-  href: /collections/pisces
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZP
 - title: Foraminiferans and other protozoans
   description: Over 2000 specimens of unicellular eukaryotes.
   background: /assets/images/forams2.jpg
-  href: https://www.gbif.org/dataset/8dbe67d7-26df-4810-a989-d246f0e93edb
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZF
 - title: Gastropods and other mollusks
   description: The gastropod and general mollusk collections cover both fixed specimens and large numbers of shells.
   background: /assets/images/gastropod.jpg
-  href: https://www.gbif.org/dataset/7d3fbc21-38f9-43b5-98d4-1ed7c65f7103
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZG
 - title: Geology and palaeontology
   description: The museum houses unique geological and palaeontological material, chiefly from Northern Norway and Svalbard.
   background: /assets/images/paleo.png
   href: https://uit.no/research/natscicol/project?pid=717009
+  imageLicense: |
+    Foto: Adnan Icagic
 - title: Lepidopterans
   description: About 23 000 specimens of butterflies from Norway and tropical regions.
   background: /assets/images/lepidoptera.png
-  href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZL
 - title: Mammals
   description: The mammal collections consist mostly of taxidermied and fixed specimens.
   background: /assets/images/mammalia.png
-  href: /collections/mammalia
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZM
 - title: Tunicates
   description: Over 1000 tunicate specimens primarily from Norwegian and Arctic waters.
   background: /assets/images/tunicate.jpg
-  href: https://www.gbif.org/dataset/d391c193-0fc0-4a96-bdac-6043dd9516d1
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZT
 - title: Various marine animal taxa
   description: Various marine groups including acanthocephalans, chaetognaths, echiurans, hemichordates, myzozoans, nematodes, nematomorphs, flatworms, sponges, priapulids, and sipunculids.
   background: /assets/images/misc.png
-  href: https://www.gbif.org/dataset/b5a4d944-8a51-4104-a4a7-c3637128bcc7
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZY
 - title: Various terrestrial animal taxa
   description: Terrestrial groups lacking dedicated collections.
   background: /assets/images/misc.png
-  href:
+  href:https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZX
