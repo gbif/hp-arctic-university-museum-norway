@@ -12,7 +12,7 @@ features:
 - title: Karplanter
   description: Over 175 000 eksemplar av karplanter.
   background: /assets/images/plantae.png
-  href: https://www.gbif.org/dataset/d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?datasetKey=d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title:  Laver
   description: Samlingerne av lav er en viktig del av museets herbarium.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
@@ -22,18 +22,17 @@ features:
 - title: Moser
   description: Samlingen av moser omfatter omtrent 23 000 eksemplar.
   background: /assets/images/moss.jpg
-  href: https://www.gbif.org/dataset/0f061eff-6854-4bb3-abe2-acb184ea3ab7
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-B
 - title: Sopp
   description: Over 39 300 eksemplar av sopp.
   background: /assets/images/fungi.jpg
-  href: https://www.gbif.org/dataset/374e0d4c-cf9f-4e1a-97a4-14123ee1bb7e
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-F
   imageLicense: |
     [*Helvella corium* (Massee)] fotograferet og innsamlet i Ramfjordbotn av Ole Christian Hagestad (lisens: http://creativecommons.org/licenses/by-sa/4.0/)
-  href: /objekter/sog/?collectionCode=TROM-A
 - title: Leddormer
   description: Marine leddormer er representert av omtrent 3500 eksemplar i museets samlinger. 
   background: /assets/images/annelida.png
-  href: https://www.gbif.org/dataset/a33a6578-bf83-4fa9-b39b-3a3738b72b68
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZA
 - title: Fugler
   description: Over 6500 utstoppede og fikserede eksemplar.
   background: /assets/images/aves.png
@@ -45,69 +44,71 @@ features:
 - title: Muslinger
   description: Samlingen av muslinger holder over 12 000 eksemplar.
   background: /assets/images/bivalve.png
-  href: https://www.gbif.org/dataset/ac2573cc-6fdb-4f2f-b670-928ab3864c91
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZB
 - title: Mosdyr, armfotinger og entoprokter
   description: Nære 3000 eksemplar, primært fra arctiske strøk.  
   background: /assets/images/brachiopod.jpg
-  href: https://www.gbif.org/dataset/e92bb2ed-1efe-4d2a-a17d-52182c562db8
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZBr
 - title: Klosaksdyr
   description: Omtrent 500 edderkoppdyr og 600 havedderkopp fra Norge og Svalbard. 
   background: /assets/images/spider.jpg
-  href: https://www.gbif.org/dataset/060eecc9-75b0-4952-bb48-e400d3ad7771
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZCh
 - title: Nesledyr og kammaneter
   description: Over 1500 marine nesledyr og kammaneter.
   background: /assets/images/cnidarian.jpg
-  href: https://www.gbif.org/dataset/d69404e5-0942-4327-b4e5-180232223ae1
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZR
 - title: Biller
   description: Biller er representert i samlingerne av 22 000 eksemplar.
   background: /assets/images/coleoptera.jpg
-  href: https://www.gbif.org/occurrence/search?dataset_key=f2a77c80-1e74-4c23-a3c9-c52cede89434&taxon_key=1470
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZC
 - title: Krepsdyr
   description: Krepsdyrsamlingen inneholder nære 20 000 eksemplar.
   background: /assets/images/isopod.jpg
-  href: https://www.gbif.org/dataset/02f57aa9-12ae-4c8c-9d9f-f8b3245cf31a
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZCr
 - title: Tovinger
   description: Over 25 000 eksemplar, mesteparten norske.
   background: /assets/images/diptera.jpg
-  href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZD
 - title: Pigghuder
   description: Omtrent 5000 pigghuder fremst fra Norge og Arktis.
   background: /assets/images/ophiuroid.jpg
-  href: https://www.gbif.org/dataset/77e91a4f-7b9d-458d-b585-298aa1ef41f8
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZE
 - title: Fisk
   description: Fisk fra sjø og ferskvann.
   background: /assets/images/fish.jpg
-  href: /collections/pisces
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZP
 - title: Foraminifer og andre protister
   description: Over 2000 eksemplar av encellede eukaryote organismer.
   background: /assets/images/forams2.jpg
-  href: https://www.gbif.org/dataset/8dbe67d7-26df-4810-a989-d246f0e93edb
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZF
 - title: Snegler og andre bløtdyr
   description: Skall og fikserte eksemplar av bløtdyr.
   background: /assets/images/gastropod.jpg
-  href: https://www.gbif.org/dataset/7d3fbc21-38f9-43b5-98d4-1ed7c65f7103
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZG
 - title: Geologi og paleontologi
   description: Museets samlinger inkluderer unikt geologiskt og paleontologiskt material, fremst fra Nord-Norge og Svalbard.
   background: /assets/images/paleo.png
   href: https://uit.no/research/natscicol/project?pid=717009
+  imageLicense: |
+    Foto: Adnan Icagic
 - title: Sommerfugler
   description: Omtrent 23 000 eksemplar av summergfugler fra Norge og tropene.
   background: /assets/images/lepidoptera.png
-  href: https://www.gbif.org/dataset/f2a77c80-1e74-4c23-a3c9-c52cede89434
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZL
 - title: Pattedyr
   description: Pattedyrsamlingen består fremst av utstoppede og fikserte eksemplar.
   background: /assets/images/mammalia.png
-  href: /collections/mammalia
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZM
 - title: Kappedyr
   description: Omtrent 1000 kappedyr primært fra norske og arktiske farvann.
   background: /assets/images/tunicate.jpg
-  href: https://www.gbif.org/dataset/d391c193-0fc0-4a96-bdac-6043dd9516d1
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZT
 - title: Diverse marine grupper
   description: Diverse marine dyrgrupper uten egne samlinger.
   background: /assets/images/misc.png
-  href: https://www.gbif.org/dataset/b5a4d944-8a51-4104-a4a7-c3637128bcc7
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZY
 - title: Diverse landlevende grupper
   description: Diverse landlevende dyrgrupper uten egne samlinger.
   background: /assets/images/misc.png
-  href:
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZX
 
