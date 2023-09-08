@@ -24,8 +24,8 @@ features:
   background: /assets/images/moss.jpg
   href: https://www.gbif.org/dataset/0f061eff-6854-4bb3-abe2-acb184ea3ab7
 - title: Sopp
-  description: Over 39 300 eksemplar av fungi.
-  background: /assets/images/plantae.png
+  description: Over 39 300 eksemplar av sopp.
+  background: /assets/images/fungi.jpg
   href: https://www.gbif.org/dataset/374e0d4c-cf9f-4e1a-97a4-14123ee1bb7e
   imageLicense: |
     [*Helvella corium* (Massee)] fotograferet og innsamlet i Ramfjordbotn av Ole Christian Hagestad (lisens: http://creativecommons.org/licenses/by-sa/4.0/)
