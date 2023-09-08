@@ -7,7 +7,7 @@ features:
   description: The algae herbarium contains almost 3000 specimens, primarily from Norway and Svalbard.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15409023&type=jpeg
   imageLicense: |
-    [Phycodrys rubens (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
+    [*Phycodrys rubens* (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
 - title: Bryophytes
   description: Around 23 600 bryophyte specimens. 
