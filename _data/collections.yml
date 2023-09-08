@@ -7,7 +7,7 @@ features:
   description: Algeherbariet inkluderer nesten 3000 eksemplar, primært fra Norge og Svalbard.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15409023&type=jpeg
   imageLicense: |
-    [*Phycodrys rubens* (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
+    [*Phycodrys rubens* (L.) Batters] innsamlet i Norge (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
 - title: Karplanter
   description: Over 175 000 eksemplar av karplanter.
@@ -36,11 +36,11 @@ features:
 - title: Fugler
   description: Over 6500 utstoppede og fikserede eksemplar.
   background: /assets/images/aves.png
-  href: /collections/birds
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
 - title: Fugleegg
   description: Nære 2000 fugleegg.
   background: /assets/images/egg2.jpg
-  href:
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
 - title: Muslinger
   description: Samlingen av muslinger holder over 12 000 eksemplar.
   background: /assets/images/bivalve.png
