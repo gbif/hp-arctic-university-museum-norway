@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: Naturial history collections of the Arctic University Museum of Norway
+title: Natural history collections of the Arctic University Museum of Norway
 description: Collections are central to the operations of any museum, and represent unique physical archives of objects and organisms.
 background: /assets/images/thumbnail_TMU-vinter-red-NY-web-hovedbilde-foto Adnan Icagic.jpg
 imageLicense: |
