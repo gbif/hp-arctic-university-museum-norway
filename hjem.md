@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: Norges arktiske universitetsmuseums samlinger
+title: Norges arktiske universitetsmuseums naturhistoriske samlinger
 description: Samlinger er sentrale før et museums virksomhet, og utgjør fysiske arkiver av objekter og organismer.
 background: /assets/images/thumbnail_05-TMU-1997-165 foto Trond Roar Nilsen-33006.jpg
 imageLicense: |
