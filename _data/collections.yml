@@ -7,7 +7,7 @@ features:
   description: Algeherbariet inkluderer nesten 3000 eksemplar, primært fra Norge og Svalbard.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15409023&type=jpeg
   imageLicense: |
-    [Phycodrys rubens (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
+    [*Phycodrys rubens* (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
 - title: Karplanter
   description: Over 175 000 eksemplar av karplanter.
@@ -24,9 +24,12 @@ features:
   background: /assets/images/moss.jpg
   href: https://www.gbif.org/dataset/0f061eff-6854-4bb3-abe2-acb184ea3ab7
 - title: Sopp
-  description: Over 39 300 eksemplar av sopp.
+  description: Over 39 300 eksemplar av fungi.
   background: /assets/images/plantae.png
   href: https://www.gbif.org/dataset/374e0d4c-cf9f-4e1a-97a4-14123ee1bb7e
+  imageLicense: |
+    [*Helvella corium* (Massee)] fotograferet og innsamlet i Ramfjordbotn av Ole Christian Hagestad (lisens: http://creativecommons.org/licenses/by-sa/4.0/)
+  href: /objekter/sog/?collectionCode=TROM-A
 - title: Leddormer
   description: Marine leddormer er representert av omtrent 3500 eksemplar i museets samlinger. 
   background: /assets/images/annelida.png
