@@ -17,7 +17,7 @@ features:
   description: Nearly 40 000 specimens of fungi. 
   background: /assets/images/fungi.jpg
   href:  https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-F
-   imageLicense: |
+  imageLicense: |
     [*Helvella corium* (Massee)] photographed and collected in Ramfjordbotn by Ole Christian Hagestad (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
 - title:  Lichens
   description: A diverse collection of nearly 23 000 lichens. 
@@ -110,4 +110,4 @@ features:
 - title: Various terrestrial animal taxa
   description: Terrestrial groups lacking dedicated collections.
   background: /assets/images/misc.png
-  href:https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZX
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZX
