@@ -8,7 +8,7 @@ imageLicense: |
 height: 70vh
 ---
 
-## Collections are central to the operations of any museum, and represent unique physical archives of objects and organisms.
+## Collections form the core of our museum's activities, serving as distinctive physical repositories for a wide range of fossil and living organisms.
 
 Founded in 1872 under the name Tromsø Museum, the Arctic University Museum of Norway has consistently upheld its mission—to systematically document, preserve, investigate, and exhibit the natural and cultural heritage of Northern Norway. Our institution mirrors the region's own historical development and is committed to advancing scholarly inquiry and fostering public enlightenment. 
 
