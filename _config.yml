@@ -20,11 +20,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Norges arktiske universitetsmuseum # the title of your site should go here
-email: your-email@example.com
+email: andreas.altenburger@uit.no
 description: >- # this means to ignore newlines (until baseurl:)
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Arctic University Museum of Norway has consistently upheld its mission to systematically document, preserve, investigate, and exhibit the natural and cultural heritage of Northern Norway. Here you can explore the natural history collections of the museum
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hp-arctic-university-museum-norway.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yourname # if you have an account you want to link to. Else comment this line out
@@ -40,11 +38,11 @@ remote_theme: gbif/jekyll-hp-base-theme
 
 # For use by the 'standardPrivacy' layout
 privacy:
-  name: Your organisation name
-  domain: your-domain.org
-  contactEmail: info@your-domain.org
-  helpdeskEmail: helpdesk@your-domain.org
-
+  name: The Arctic University Museum of Norway
+  domain: https://en.uit.no/tmu
+  contactEmail: andreas.altenburger@uit.no
+  helpdeskEmail: andreas.altenburger@uit.no
+  
 # The text for the terms can be changed by adding translations for 'terms', 'acceptTerms' and 'rejectTerms' in `/_data/translations.yml`.
 siteMeasurements:
   enable: false # When enabled there will be a popup asking the user for their consent. If they accept then the function "attachMeasurements" will be called. You can overwrite this function by adding a file `/_includes/js/measure.js` and replace the function.
