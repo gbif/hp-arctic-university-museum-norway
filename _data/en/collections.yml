@@ -10,29 +10,29 @@ features:
     [*Phycodrys rubens* (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
 - title: Bryophytes
-  description: Around 23 600 bryophyte specimens. 
+  description: Around 23,600 bryophyte specimens, encompassing a diverse array of mosses, liverworts, and hornworts. 
   background: /assets/images/moss.jpg
   href:  https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-B
 - title: Fungi
-  description: Nearly 40 000 specimens of fungi. 
+  description: We house an extensive fungal collection, comprising nearly 40,000 specimens, showcasing the remarkable diversity of fungi in our region. 
   background: /assets/images/fungi.jpg
   href:  https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-F
   imageLicense: |
     [*Helvella corium* (Massee)] photographed and collected in Ramfjordbotn by Ole Christian Hagestad (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
 - title:  Lichens
-  description: A diverse collection of nearly 23 000 lichens. 
+  description: A diverse collection, featuring nearly 23,000 lichen specimens, unique symbiotic organisms. 
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
   imageLicense: |
     [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-L
 - title: Vascular plants
-  description: Over 175 000 vascular plant specimens, primarily from the northern hemisphere.
+  description: Our extensive vascular plant collection, which includes over 175,000 specimens primarily sourced from the northern hemisphere, a comprehensive botanical journey through the rich flora of the North.
   background: /assets/images/plantae.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?datasetKey=d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
 - title: Annelids
   description: Marine annelids are an important component of the museum's zoological collections, numbering over 3500 specimens. 
   background: /assets/images/annelida.png
-  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZA
+  href: /objekter/sog/?collectionCode=TSZA
 - title: Birds
   description: Over 6500 specimens of taxidermied and fixed birds.
   background: /assets/images/aves.png
