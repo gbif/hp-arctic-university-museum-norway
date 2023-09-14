@@ -2,7 +2,7 @@
 lang-ref: about
 title: About
 description: Natural History collections of the Arctic University Museum of Norway 
-background: /assets/images/moss.jpg
+background: /assets/images/mammalia.png
 imageLicense: |
   Photo by mhoefft via [gbif.org](https://www.gbif.org/occurrence/1580487687)
 height: 70vh
