@@ -5,11 +5,11 @@
 columns:
   - name: Contact
     description: 
-      * Visitors address
+       Visitors address
       * Lars Thørings veg 10
       * 9006 Tromsø
       * Norway
-     links:  https://en.uit.no/tmu
+    links:  https://en.uit.no/tmu
     connectIcons: true
 
   # EXAMPLE
