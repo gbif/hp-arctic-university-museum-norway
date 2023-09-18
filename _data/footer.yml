@@ -1,5 +1,14 @@
 # Footer content is organized in columns.
 # You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - name: Partnere
+    links:
+    - text: Navn på projektpartner
+      href: http://example.com
+    - text: Name of project partner 2
+      href: http://example.com
   
   - name: Kontakt
     description: | # Can be Markdown
