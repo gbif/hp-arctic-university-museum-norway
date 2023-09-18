@@ -5,10 +5,9 @@
 columns:
   - name: Kontakt
     description: 
-      Lars Thørings veg 10  
-      9006 Tromsø  
-      Norge
-    links:  https://en.uit.no/tmu
+      * Lars Thørings veg 10
+      * 9006 Tromsø
+      * Norge
     connectIcons: true
 
   # EXAMPLE
