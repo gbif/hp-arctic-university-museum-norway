@@ -10,9 +10,11 @@ columns:
     - text: Name of project partner 2
       href: http://example.com
 
-  - name: Code
+  - name: Forskning
     description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
+      Flere ulike forskere på museet arbeider med samlingene.
+          - text: NatSciCol
+            href: https://uit.no/research/natscicol
   
   - name: Kontakt
     description: | # Can be Markdown
