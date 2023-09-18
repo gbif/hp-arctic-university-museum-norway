@@ -12,13 +12,11 @@ columns:
 
   - name: Forskning
     description: | # Can be Markdown
-      Flere ulike forskere på museet arbeider med samlingene.
-          - text: NatSciCol
+          - text: Forskergruppen NatSciCol arbeider med samlingerne.
             href: https://uit.no/research/natscicol
   
   - name: Kontakt
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
       * Lars Thørings veg 10
       * 9006 Tromsø
       * Norway
