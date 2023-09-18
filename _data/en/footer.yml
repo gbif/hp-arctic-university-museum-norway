@@ -10,7 +10,7 @@ columns:
       Norway
     connectIcons: true
 
-       - name: Contact
+   - name: Contact
     description: | # Can be Markdown
       Lars Thørings veg 10
       9006 Tromsø
