@@ -5,9 +5,9 @@
 columns:
    - name: Contact
     description: | # Can be Markdown
-      * Lars Thørings veg 10
-      * 9006 Tromsø
-      * Norway
+      Lars Thørings veg 10
+      9006 Tromsø
+      Norway
     connectIcons: true
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
