@@ -8,7 +8,7 @@ imageLicense: |
   Tromsø Museum, photo by Adnan Icagic.
 cta:
   - text: Explore
-    href: /en/occurrences/search
+    href: https://hp-arctic-university-museum-norway.gbif-staging.org/en/occurrence/search/
     isPrimary: true
   - text: About
     href: /en/about
