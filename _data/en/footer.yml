@@ -3,11 +3,6 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: 
-    description: 
-    links:
-    connectIcons: false
-
    - name: Contact
     description: | # Can be Markdown
       * Lars Thørings veg 10
