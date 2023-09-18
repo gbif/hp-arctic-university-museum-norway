@@ -5,9 +5,9 @@
 columns:
   - name: Kontakt
     description: | # Can be Markdown
-     - Lars Thørings veg 10  
-     - 9006 Tromsø  
-     - Norway
+      Lars Thørings veg 10  <br />
+      9006 Tromsø  <br />
+      Norway
     connectIcons: true
 
   # EXAMPLE
