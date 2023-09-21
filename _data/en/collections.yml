@@ -7,25 +7,25 @@ features:
   description: The algae herbarium contains almost 3000 specimens, primarily from Norway and Svalbard.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15409023&type=jpeg
   imageLicense: |
-    [*Phycodrys rubens* (L.) Batters](https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
+    *Phycodrys rubens* (L.) Batters(https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
   href: /objekter/sog/?collectionCode=TROM-A
 - title: Bryophytes
   description: Around 23,600 bryophyte specimens, encompassing a diverse array of mosses, liverworts, and hornworts. 
   background: /assets/images/1000004244.jpg
   imageLicense: |
-    [*Marchantia polymorpha* (L.)], photo by Dilli Prasad Rijal)
+    *Marchantia polymorpha* (L.), photo by Dilli Prasad Rijal
   href:  https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-B
 - title: Fungi
   description: We house an extensive fungal collection, comprising nearly 40,000 specimens, showcasing the remarkable diversity of fungi in our region. 
   background: /assets/images/fungi.jpg
   href:  https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-F
   imageLicense: |
-    [*Helvella corium* (Massee)] photographed and collected in Ramfjordbotn by Ole Christian Hagestad (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
+    *Helvella corium* (Massee) photographed and collected in Ramfjordbotn by Ole Christian Hagestad (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
 - title:  Lichens
   description: A diverse collection, featuring nearly 23,000 lichen specimens, unique symbiotic organisms. 
   background: /assets/images/Nephroma_arcticum_01.jpg
   imageLicense: |
-    [*Nephroma arcticum*  (L.) Torss. (1843)], photo by Dilli Prasad Rijal)
+    *Nephroma arcticum*  (L.) Torss. (1843), photo by Dilli Prasad Rijal)
   href: /objekter/sog/?collectionCode=TROM-L
 - title: Vascular plants
   description: Our extensive vascular plant collection, which includes over 175,000 specimens primarily sourced from the northern hemisphere, a comprehensive botanical journey through the rich flora of the North.
@@ -73,7 +73,7 @@ features:
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZD
 - title: Echinoderms
   description: A unique collection of nearly 5000 echinoderms primarily from the Norwegian Arctic.
-  background: /assets/images/cnidarian.jpg
+  background: /assets/images/Echinoderm_2.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZE
 - title: Fish
   description: Marine and freshwater fish, mostly fixed specimens.
