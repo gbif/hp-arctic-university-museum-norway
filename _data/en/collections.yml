@@ -21,9 +21,9 @@ features:
     [*Helvella corium* (Massee)] photographed and collected in Ramfjordbotn by Ole Christian Hagestad (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
 - title:  Lichens
   description: A diverse collection, featuring nearly 23,000 lichen specimens, unique symbiotic organisms. 
-  background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
+  background: /assets/images/Nephroma_arcticum_01.jpg
   imageLicense: |
-    [*Phaeocalicium compressulum* (Nyl. ex Vain.) A.F.W.Schmidt](https://www.gbif.org/occurrence/1302823916) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
+    [Nephroma arcticum, photo by Dilli Prasad Rijal)
   href: /objekter/sog/?collectionCode=TROM-L
 - title: Vascular plants
   description: Our extensive vascular plant collection, which includes over 175,000 specimens primarily sourced from the northern hemisphere, a comprehensive botanical journey through the rich flora of the North.
