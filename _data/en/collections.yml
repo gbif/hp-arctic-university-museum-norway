@@ -35,7 +35,7 @@ features:
   description: Marine annelids are an important component of the museum's zoological collections, numbering over 3500 specimens. 
   background: /assets/images/annelida.png
   imageLicense: |
-    *Oligobrachia webbi*  Brattegard, 1966 (TSZA 746), photo by Mari Karlstad
+    *Oligobrachia webbi* Brattegard, 1966 (TSZA 746), photo by Mari Karlstad
   href: /objekter/sog/?collectionCode=TSZA
 - title: Birds
   description: Over 6500 specimens of taxidermied and preserved birds.
@@ -65,31 +65,43 @@ features:
   description: Half a thousand arachnids and nearly 600 pycnogonids from Norway and Svalbard. 
   background: /assets/images/spider.jpg
   imageLicense: |
-    *Macandrevia cranium* (O. F. Müller, 1776) (TSZBr 2731), photo by Mari Karlstad
+    *Colossendeis* sp. Jarzynsky, 1870 (TSZCh 570), photo by Mari Karlstad
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZCh
 - title: Cnidarians and ctenophores
-  description: The collection houses over 1500 mostly fixed specimens of marine cnidarian and ctenophore taxa.
+  description: The collection houses over 1500 specimens of marine cnidarian and ctenophore taxa.
   background: /assets/images/cnidarian.jpg
+  imageLicense: |
+    *Pennatula aculeata* Danielssen, 1860 (TSZR 130), photo by Mari Karlstad
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZR
 - title: Coleopterans
   description: Beetles, the most speciose insect group of them all, are represented by about 22 000 specimens in the museum's collection.
   background: /assets/images/coleoptera.jpg
+  imageLicense: |
+    photo by ...
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZC
 - title: Crustaceans
   description: The crustacean collection holds nearly 20 000 specimens, primarily from Northern Europe.
   background: /assets/images/isopod.jpg
+  imageLicense: |
+    *Saduria sabini* (Krøyer, 1849) (TSZCr 4341), photo by Mari Karlstad
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZC
 - title: Dipterans
   description: Over 25 000 specimens of mainly Norwegian dipterans.
   background: /assets/images/diptera.jpg
+  imageLicense: |
+    photo by ...
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZD
 - title: Echinoderms
   description: A unique collection of nearly 5000 echinoderms primarily from the Norwegian Arctic.
   background: /assets/images/Echinoderm_2.jpg
+  imageLicense: |
+    *Strongylocentrotus droebachiensis* (O.F. Müller, 1776), photo by Heini Rämä
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZE
 - title: Fish
-  description: Marine and freshwater fish, mostly fixed specimens.
+  description: Marine and freshwater fish. Over 3000 specimens.
   background: /assets/images/fish.jpg
+  imageLicense: |
+    ** , photo by Mari Karlstad
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZP
 - title: Foraminiferans and other protozoans
   description: Over 2000 specimens of unicellular eukaryotes.
