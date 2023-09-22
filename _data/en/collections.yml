@@ -25,7 +25,7 @@ features:
   description: A diverse collection, featuring nearly 23,000 lichen specimens, unique symbiotic organisms. 
   background: /assets/images/Nephroma_arcticum_01.jpg
   imageLicense: |
-    *Nephroma arcticum*  (L.) Torss. (1843), photo by Dilli Prasad Rijal)
+    *Nephroma arcticum*  (L.) Torss. (1843), photo by Dilli Prasad Rijal
   href: /objekter/sog/?collectionCode=TROM-L
 - title: Vascular plants
   description: Our extensive vascular plant collection, which includes over 175,000 specimens primarily sourced from the northern hemisphere, a comprehensive botanical journey through the rich flora of the North.
@@ -34,26 +34,38 @@ features:
 - title: Annelids
   description: Marine annelids are an important component of the museum's zoological collections, numbering over 3500 specimens. 
   background: /assets/images/annelida.png
+  imageLicense: |
+    *Oligobrachia webbi*  Brattegard, 1966 (TSZA 746), photo by Mari Karlstad
   href: /objekter/sog/?collectionCode=TSZA
 - title: Birds
-  description: Over 6500 specimens of taxidermied and fixed birds.
+  description: Over 6500 specimens of taxidermied and preserved birds.
   background: /assets/images/aves.png
+  imageLicense: |
+    photo by Mari Karlstad
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
 - title: Bird eggs
-  description: Nearly 2000 bird eggs.
+  description: Nearly 2000 bird eggs from Norther Norway and Svalbard.
   background: /assets/images/egg2.jpg
+  imageLicense: |
+    photo by Mari Karlstad
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
 - title: Bivalves
   description: The bivalve collection covers over 12 000 specimens, both fixed and in the form of shells. 
   background: /assets/images/bivalve.png
+  imageLicense: |
+    *Anadara hankeyana* (Reeve, 1844) (TSZB 5905), photo by Mari Karlstad
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZB
 - title: Bryozoans, brachiopods and entoprocts
   description: Nearly 3000 specimens of lophophorates and entoprocts, mostly from the Norwegian Arctic.  
   background: /assets/images/brachiopod.jpg
+  imageLicense: |
+    *Macandrevia cranium* (O. F. Müller, 1776) (TSZBr 2731), photo by Mari Karlstad
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZBr
 - title: Chelicerates
   description: Half a thousand arachnids and nearly 600 pycnogonids from Norway and Svalbard. 
   background: /assets/images/spider.jpg
+  imageLicense: |
+    *Macandrevia cranium* (O. F. Müller, 1776) (TSZBr 2731), photo by Mari Karlstad
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZCh
 - title: Cnidarians and ctenophores
   description: The collection houses over 1500 mostly fixed specimens of marine cnidarian and ctenophore taxa.
