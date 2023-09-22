@@ -1,8 +1,8 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
 - text: About
-  href: /en/about.md
+  href: /en/about
 - text: Occurrences
-  href: /en/occurrence/search.md
+  href: /en/occurrence/search
 - text: News and publications
   href: https://uit.no/research/natscicol#region_721154
