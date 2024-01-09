@@ -42,13 +42,13 @@ features:
   background: /assets/images/aves.png
   imageLicense: |
     photo by Mari Karlstad
-  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZ-bird
 - title: Bird eggs
   description: Nearly 2000 bird eggs from Norther Norway and Svalbard.
   background: /assets/images/egg2.jpg
   imageLicense: |
     photo by Mari Karlstad
-  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZ-bird-egg
 - title: Bivalves
   description: The bivalve collection covers over 12 000 specimens, both fixed and in the form of shells. 
   background: /assets/images/bivalve.png
@@ -136,4 +136,6 @@ features:
 - title: Various terrestrial animal taxa
   description: Terrestrial groups lacking dedicated collections.
   background: /assets/images/various terrestrial.png
+  imageLicense: |
+    Slide collection, photo by Andreas Altenburger
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZX
