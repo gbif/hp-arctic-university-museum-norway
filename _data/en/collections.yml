@@ -131,7 +131,9 @@ features:
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZT
 - title: Various marine animal taxa
   description: Various marine groups including acanthocephalans, chaetognaths, echiurans, hemichordates, myzozoans, nematodes, nematomorphs, flatworms, sponges, priapulids, and sipunculids.
-  background: /assets/images/misc.png
+  background: /assets/images/various marine.png
+  imageLicense: |
+    Wet collection, photo by Ricarda Sofia Cremer
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZY
 - title: Various terrestrial animal taxa
   description: Terrestrial groups from Northern Norway, including Collembola
