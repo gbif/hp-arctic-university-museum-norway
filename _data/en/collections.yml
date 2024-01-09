@@ -129,6 +129,8 @@ features:
   description: Over 1000 tunicate specimens primarily from Norwegian and Arctic waters.
   background: /assets/images/tunicate.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZT
+   imageLicense: |
+    *Molgula retortiformis* Verrill, 1871, TSZT 49, photo by Mari Karlstad
 - title: Various marine animal taxa
   description: Various marine groups including acanthocephalans, chaetognaths, echiurans, hemichordates, myzozoans, nematodes, nematomorphs, flatworms, sponges, priapulids, and sipunculids.
   background: /assets/images/various marine.png
