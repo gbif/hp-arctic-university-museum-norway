@@ -134,7 +134,7 @@ features:
   background: /assets/images/misc.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZY
 - title: Various terrestrial animal taxa
-  description: Terrestrial groups lacking dedicated collections.
+  description: Terrestrial groups from Northern Norway, including Collembola
   background: /assets/images/various terrestrial.png
   imageLicense: |
     Slide collection, photo by Andreas Altenburger
