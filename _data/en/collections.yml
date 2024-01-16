@@ -5,9 +5,9 @@ description: |
 features: 
 - title: Algae
   description: The algae herbarium contains almost 3000 specimens, primarily from Norway and Svalbard.
-  background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=15409023&type=jpeg
+  background: /assets/images/Alaria.png
   imageLicense: |
-    *Phycodrys rubens* (L.) Batters(https://www.gbif.org/occurrence/3855870121) collected in Norway (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
+    *Alaria esculenta* (L.) photo by Heini Emilia Rama
   href: /objekter/sog/?collectionCode=TROM-A
 - title: Bryophytes
   description: Around 23,600 bryophyte specimens, encompassing a diverse array of mosses, liverworts, and hornworts. 
