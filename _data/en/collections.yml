@@ -125,6 +125,8 @@ features:
   description: The mammal collections consist mostly of taxidermied and fixed specimens.
   background: /assets/images/mammalia.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZM
+  imageLicense: |
+    *Canis lupus*, photo by Mari Karlstad
 - title: Tunicates
   description: Over 1000 tunicate specimens primarily from Norwegian and Arctic waters.
   background: /assets/images/tunicate.jpg
