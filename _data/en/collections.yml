@@ -17,10 +17,10 @@ features:
   href:  https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-B
 - title: Fungi
   description: We house an extensive fungal collection, comprising nearly 40,000 specimens, showcasing the remarkable diversity of fungi in our region. 
-  background: /assets/images/fungi.jpg
+  background: /assets/images/fungi2.jpg
   href:  https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TROM-F
   imageLicense: |
-    *Helvella corium* (Massee) photographed and collected in Ramfjordbotn by Ole Christian Hagestad (licensed under http://creativecommons.org/licenses/by-sa/4.0/)
+    *Cortinarius saturninus* photo: Ole Christian Hagestad   
 - title:  Lichens
   description: A diverse collection, featuring nearly 23,000 lichen specimens, unique symbiotic organisms. 
   background: /assets/images/Nephroma_arcticum_01.jpg
