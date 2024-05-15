@@ -1,8 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: Naturhistoriske samlinger  
-ved Norges arktiske universitetsmuseum 
+title: Naturhistoriske samlinger ved Norges arktiske universitetsmuseum 
 description: Norges arktiske universitetsmuseum huser zoologiske, botaniske og geologiske samlinger, mere enn 500 000 eksemplarer hovedsakelig fra Nord-Norge og de arktiske regionene.
 Samlingene er kjernen i all museumsdrift, og grunnlaget for vår forskning på fortiden, nåtiden og med et blikk mot fremtiden. 
 background: /assets/images/thumbnail_05-TMU-1997-165 foto Trond Roar Nilsen-33006.jpg
