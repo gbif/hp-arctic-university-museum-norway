@@ -37,11 +37,11 @@ features:
 - title: Fugler
   description: Museets samlinger huser mer enn 6500 utstoppede og konserverte fugler.
   background: /assets/images/aves.png
-  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZ-bird
 - title: Fugleegg
   description: Nesten 2000 fugleegg fra Nord-Norge og Svalbard.
   background: /assets/images/egg2.jpg
-  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZ-bird-egg
 - title: Muslinger
   description: Samlingen av muslinger holder over 12 000 eksemplar.
   background: /assets/images/bivalve.png
