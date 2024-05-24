@@ -42,7 +42,7 @@ features:
   background: /assets/images/aves.png
   imageLicense: |
     photo by Mari Karlstad
-  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZ-bird
+  href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZ-birds
 - title: Bird eggs
   description: Nearly 2000 bird eggs from Norther Norway and Svalbard.
   background: /assets/images/egg2.jpg
