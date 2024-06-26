@@ -14,6 +14,8 @@ features:
   description: Vår samling av karplanter omfatter mer enn 175 000 eksemplarer, hovedsakelig fra den nordlige halvkule, og tar deg med på en botanisk reise gjennom den rike floraen i nord.
   background: /assets/images/plantae.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?datasetKey=d0aa984e-c6d3-45ee-8fc0-df1df8f4126b
+  imageLicense: |
+    Foto: Tomasz A. Wacko
 - title:  Lav
   description: En variert samling med nesten 23 000 eksemplarer av unike, symbiotiske organismer.
   background: https://www.unimus.no/felles/bilder/web_hent_bilde.php?id=14249114&type=jpeg
@@ -34,30 +36,44 @@ features:
   description: 3500 eksemplarer av marine leddormer finnes i museets samlinger.
   background: /assets/images/annelida.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZA
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Fugler
   description: Museets samlinger huser mer enn 6500 utstoppede og konserverte fugler.
   background: /assets/images/aves.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZ-bird
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Fugleegg
   description: Nesten 2000 fugleegg fra Nord-Norge og Svalbard.
   background: /assets/images/egg2.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZ-bird-egg
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Muslinger
   description: Samlingen av muslinger holder over 12 000 eksemplar.
   background: /assets/images/bivalve.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZB
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Mosdyr, armfotinger og entoprokter
   description: I våre samlinger finnes det nærmere 3000 eksemplarer, primært fra arktiske strøk. 
   background: /assets/images/brachiopod.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZBr
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Edderkopper og andre klosaksdyr
   description: Vi har samlet rundt 500 eksemplarer av edderkoppdyr og 600 havedderkopper fra Norge og Svalbard. 
   background: /assets/images/spider.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZCh
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Nesledyr og kammaneter
   description: Samlingen huser over 1500 eksemplarer av marine nesledyr og kammaneter.
   background: /assets/images/cnidarian.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZR
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Biller
   description: Vår samling av biller er på 22 000 eksemplarer.
   background: /assets/images/coleoptera.jpg
@@ -66,6 +82,8 @@ features:
   description: Krepsdyrsamlingen er på nesten 20 000 eksemplarer.
   background: /assets/images/isopod.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZCr
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Tovinger
   description: Flere enn 25 000 eksemplarer, hovedsakelig norske.
   background: /assets/images/diptera.jpg
@@ -74,18 +92,26 @@ features:
   description: Omtrent 5000 eksemplarer av pigghuder, hovedsakelig fra Norge og Arktis. 
   background: /assets/images/ophiuroid.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZE
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Fisk
   description: Fisk fra sjøvann og ferskvann.
   background: /assets/images/fish.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZP
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Foraminifer og andre protister
   description: Over 2000 eksemplarer av encellede eukaryote organismer.
   background: /assets/images/forams2.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZF
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Snegler og andre bløtdyr
   description: Bløtdyrsamlingen inneholder over 12 000 eksemplarer, både konserverte bløtdyr og skall.
   background: /assets/images/gastropod.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZG
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Geologi og paleontologi
   description: Museets samlinger inneholder unikt geologiske og paleontologiske materiale, hovedsakelig fra Nord-Norge og Svalbard.
   background: /assets/images/paleo.png
@@ -96,20 +122,30 @@ features:
   description: Rundt 23 000 eksemplarer av sommerfugler fra Norge og tropene.
   background: /assets/images/lepidoptera.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZL
+  imageLicense: |
+    Foto: Julia Brekmo
 - title: Pattedyr
   description: Pattedyrsamlingen består av en rekke utstoppede og konserverte eksemplarer.
   background: /assets/images/mammalia.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZM
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Kappedyr
   description: Omtrent 1000 tunikater, primært fra norske og arktiske farvann.
   background: /assets/images/tunicate.jpg
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZT
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Diverse marine grupper
   description: Diverse marine dyregrupper uten egne samlinger.
   background: /assets/images/misc.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZY
+  imageLicense: |
+    Foto: Mari Karlstad
 - title: Diverse landlevende grupper
   description: Diverse landlevende dyregrupper uten egne samlinger.
   background: /assets/images/misc.png
   href: https://hp-arctic-university-museum-norway.gbif-staging.org/objekter/sog/?collectionCode=TSZX
+  imageLicense: |
+    Foto: Mari Karlstad
 
