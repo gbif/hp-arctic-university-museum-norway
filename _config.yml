@@ -11,7 +11,7 @@
 # If you need help with YAML syntax, here are some quick references for you: 
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
-# You should also look at https://hp-theme.gbif-staging.org/documentation-intro for options
+# You should also look at https://theme.hp.gbif-staging.org/documentation-intro for options
 #
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
@@ -24,7 +24,7 @@ email: andreas.altenburger@uit.no
 description: >- # this means to ignore newlines (until baseurl:)
   The Arctic University Museum of Norway has consistently upheld its mission to systematically document, preserve, investigate, and exhibit the natural and cultural heritage of Northern Norway. Here you can explore the natural history collections of the museum
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hp-arctic-university-museum-norway.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arctic-university-museum-norway.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: yourname # if you have an account you want to link to. Else comment this line out
 github_username:  yourname # if you have an account you want to link to. Else comment this line out
 
