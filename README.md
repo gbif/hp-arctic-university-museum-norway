@@ -2,9 +2,9 @@
 [![Build Status](https://builds.gbif.org/job/hp-arctic-university-museum-norway/badge/icon)](https://builds.gbif.org/job/hp-arctic-university-museum-norway/lastBuild/console)
 <!-- License badge example: [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/) -->
 
-# GBIF Hosted Portal: hp-arctic-university-museum-norway
+# GBIF Hosted Portal: Naturhistoriske samlinger ved Norges arktiske universitetsmuseum
 
-This Jekyll website, **[hp-arctic-university-museum-norway](https://hp-arctic-university-museum-norway.gbif.org/)**, makes use of a theme and biodiversity widgets developed by the GBIF network.
+This Jekyll website, **https://specimens.tromsomuseum.no/**, makes use of a theme and biodiversity widgets developed by the GBIF network.
 
 You can find information on editing this site and more on [gbif/hosted-portals](https://github.com/gbif/hosted-portals)
 
