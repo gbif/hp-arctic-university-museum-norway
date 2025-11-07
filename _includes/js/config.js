@@ -92,9 +92,8 @@ var siteConfig = {
 
 // example of a language specific route overwrite
 if (pageLang === 'en') {
-  siteConfig.pages = {
+  siteConfig.pages = [{
     "id": "occurrenceSearch",
     "path": "occurrence/search"
-  }
-
+  }]
 }
